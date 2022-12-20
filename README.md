@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaditya Raj Gupta</h1>
 <h3 align="center">PROGRAMMER</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AadityaRajGupta&label=Profile%20views&color=0e75b6&style=flat" alt="AadityaRajGupta" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AadityaRajGupta&label=Profile%20views&color=0e75b6&style=flat" alt="AadityaRajGupta" /> </p> -->
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
