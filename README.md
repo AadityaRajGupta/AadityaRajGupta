@@ -25,8 +25,8 @@
 ## &#x1f4c8; GitHub Stats
 <p align = "center">
 
-<!-- ![Aaditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AadityaRajGupta&theme=rogue) -->
-![Aaditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AadityaRajGupta&theme=rogue)
+<!-- ![Aaditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AadityaRajGupta&theme=rogue) 
+![Aaditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AadityaRajGupta&theme=rogue)-->
 <br>
 <hr>
 <p align = "center">
@@ -41,11 +41,11 @@
 <hr>
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaRajGupta&" alt="AadityaRajGupta" /></p>
 <hr>
-
+<!--
 <p align="left">
   <a href="https://github.com/Platane/snk#readme">
     <img src="https://github.com/AadityaRajGupta/AadityaRajGupta/blob/output/github-snake-dark.svg" />
   </a>
 </p>
 <hr>
-
+-->
