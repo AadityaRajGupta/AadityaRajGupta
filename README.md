@@ -2,7 +2,7 @@
 <h3 align="center">SOFTWARE PROGRAMMER</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AadityaRajGupta&label=Profile%20views&color=0e75b6&style=flat" alt="AadityaRajGupta" /> </p> -->
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **WEB DEVELOPMENT and DSA**
 
 - 💬 Ask me about **C,C++,Python,JAVA,MySQL,**
 
