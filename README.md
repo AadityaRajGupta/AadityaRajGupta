@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aaditya Raj Gupta</h1>
-<h3 align="center">SOFTWARE PROGRAMMER</h3>
+<h3 align="center">Aspiring Software Engineer and Deep Learning Enthusiast</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AadityaRajGupta&label=Profile%20views&color=0e75b6&style=flat" alt="AadityaRajGupta" /> </p> -->
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT and DSA**
 
-- 💬 Ask me about **C,C++,Python,JAVA,MySQL,**
+- 💬 Ask me about **C,C++,Python,JAVA,MySQL**
 
 - 📫 How to reach me **aadityarajgupta333@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aadityarajgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadityarajgupta" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaditya raj gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya raj gupta" height="30" width="40" /></a>
+<a href="https://twitter.com/AadityaR4jGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadityarajgupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aadityarajgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya raj gupta" height="30" width="40" /></a>
 <a href="https://fb.com/aaditya raj gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya raj gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/aadityarajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityarajg" height="30" width="40" /></a>
 </p>
