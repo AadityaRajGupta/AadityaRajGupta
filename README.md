@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AadityaR4jGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadityarajgupta" height="30" width="40" /></a>
+<a href="https://twitter.com/AadityaR4jGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="aadityarajgupta" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aadityarajgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya raj gupta" height="30" width="40" /></a>
 <a href="https://fb.com/aaditya raj gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya raj gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/aadityarajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityarajg" height="30" width="40" /></a>
