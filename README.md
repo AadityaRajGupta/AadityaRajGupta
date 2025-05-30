@@ -1,88 +1,39 @@
-<h1 align="center">Hi 👋, I'm Aaditya Raj Gupta</h1>
-<h3 align="center">Aspiring Software Engineer and Deep Learning Enthusiast</h3>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AadityaRajGupta&label=Profile%20views&color=0e75b6&style=flat" alt="AadityaRajGupta" /> </p> -->
+# 👋 Hey, I'm Aaditya Raj Gupta
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT and DSA**
+I'm a **B.Tech CSE 2025** grad from ABES Engineering College, Ghaziabad, passionate about **AI** and **backend development**. I love coding and solving problems with **Python**, **C/C++**, **SQL**, **Flask**, and **ML tools** like PyTorch and TensorFlow.
 
-- 💬 Ask me about **C,C++,Python,JAVA,MySQL**
+## 🌟 My Journey
+- **GATE 2025**: Jumped from AIR 15,000 (2024) to **AIR 1171** in GATE CS 2025 with steady effort and NPTEL resources. Not the highest, but a big step up!
+- **Internship**: Wrapped a 2-month internship at **Infosys Springboard** (Feb–Apr 2025), building backend systems with **SQLAlchemy** for a food delivery app.
+- **Learning**: Grabbed an **NPTEL STAR Badge** for sticking with online courses, which helped me prep for GATE.
 
-- 📫 How to reach me **aadityarajgupta333@gmail.com**
+## 💻 Key Project: AetherCare
+For my B.Tech final-year project, I co-built **AetherCare**, an AI-powered platform:
+- **Features**: AI Q&A, disease prediction (92% accuracy), hospital finder, and info blog.
+- **Tech**: Flask, LLaMA 2, Pinecone, NLP, ML.
+- **Repo**: [Check it out!](https://github.com/AadityaRajGupta/AetherCare_Platform)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/AadityaR4jGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="aadityarajgupta" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aadityarajgupta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaditya raj gupta" height="30" width="40" /></a>
-<a href="https://fb.com/aaditya raj gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aaditya raj gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/aadityarajg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityarajg" height="30" width="40" /></a>
-</p>
+## 🛠️ Other Projects
+- **Automated Uniform Detection**: ML model with 85.9% accuracy using CNN and OpenCV.
+- **Automated Billing System**: Python & SQL tool for easy customer management.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 📬 Connect With Me
+- **Email**: [aadityarajgupta333@gmail.com](mailto:aadityarajgupta333@gmail.com)
+- **LinkedIn**: [Aaditya Raj Gupta](https://www.linkedin.com/in/aadityarajgupta/)
+- **Twitter**: [@AadityaR4jGupta](https://twitter.com/AadityaR4jGupta)
+- **Instagram**: [@aadityarajg](https://instagram.com/aadityarajg)
+- **Leetcode**: [AadityaRajGupta](https://leetcode.com/u/AadityaRajGupta/)
+- **CodeChef**: [aadityaraj05](https://www.codechef.com/users/aadityaraj05)
 
-<!--
-<br>
-<hr>
+## 🧩 Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
-<p align = "center">
+---
 
-<!-- ![Aaditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=AadityaRajGupta&theme=rogue) 
-![Aaditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AadityaRajGupta&theme=rogue)
-<br>
-<hr>
-<p align = "center">
-<a href="https://github.com/AadityaRajGupta">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaRajGupta&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</p>
--->
-
-<br>
-<hr>
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AadityaRajGupta&show_icons=true&locale=en" alt="AadityaRajGupta" /></p>
-<br>
-<hr>
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaRajGupta&" alt="AadityaRajGupta" /></p>
-<hr>
-
-
-
-
-
-
-
-
-<!--
-<p align="center">
-	<a href="https://github.com/AadityaRajGupta">
-		<img align="center"
-		height="150em"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=AadityaRajGupta&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
-		/>
-	</a>
-	<a href="https://github.com/AadityaRajGupta">
-		<img align="center"
-		height="150em"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaRajGupta&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-	</a>
-</p>
-
-
-
-<p align="center">
-	<a href="https://github.com/AadityaRajGupta">
-		<img
-		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=AadityaRajGupta&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true"/>
-	</a>
-</p>
-
-
-<p align="left">
-  <a href="https://github.com/Platane/snk#readme">
-    <img src="https://github.com/AadityaRajGupta/AadityaRajGupta/blob/output/github-snake-dark.svg" />
-  </a>
-</p> 
--->
-<hr>
-
+Let’s code something cool! 🚀
